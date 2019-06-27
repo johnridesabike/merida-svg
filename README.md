@@ -43,6 +43,8 @@ The output will be in the `svg` directory.
 
 - [Node.js](https://nodejs.org/)
 - [opentype.js](https://opentype.js.org/)
+- [svgpath](https://github.com/fontello/svgpath)
+- [Ramda](https://ramdajs.com)
 
 ## ✍️ Authors
 
