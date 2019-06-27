@@ -9,7 +9,10 @@
   },
   "author": "John Jackson",
   "license": "MIT",
-  "devDependencies": {
-    "opentype.js": "^1.1.0"
-  }
+  "dependencies": {
+    "opentype.js": "^1.1.0",
+    "ramda": "^0.26.1",
+    "svgpath": "^2.2.2"
+  },
+  "devDependencies": {}
 }
